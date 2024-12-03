@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 17)
 set(IMGLIB_MAIN_FILES img_lib.h img_lib.cpp)
 set(IMGLIB_FORMAT_FILES ppm_image.h ppm_image.cpp)
 
-add_library(ImgLib STATIC ${IMGLIB_MAIN_FILES} ${IMGLIB_FORMAT_FILES})c
+add_library(ImgLib STATIC ${IMGLIB_MAIN_FILES} ${IMGLIB_FORMAT_FILES})cёЁ
