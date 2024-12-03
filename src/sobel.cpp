@@ -1,4 +1,4 @@
-#include "ppm_image.h"
+#include "ImgLib/ppm_image.h"
 
 #include <algorithm>
 #include <array>

@@ -1,0 +1,19 @@
+# Временные файлы сборки
+build/
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+cmake-build-*
+
+# CMake cache
+CMakeCache.txt
+CMakeFiles/
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
